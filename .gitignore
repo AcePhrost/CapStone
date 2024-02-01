@@ -1,0 +1,4 @@
+car-venv/
+.env
+__pycache__
+
